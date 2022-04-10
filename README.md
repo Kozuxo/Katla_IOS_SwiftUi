@@ -9,6 +9,6 @@ https://user-images.githubusercontent.com/101935120/162617548-f11b517c-23ce-44da
 List of function:
 1. Start and Restart button
 2. Slider to change how many words to be guessed.
-3. Customizable nunmber of guesses
+3. Customizable number of guesses
 4. Cheat button
 5. Show the result of the board without leaking the answer
